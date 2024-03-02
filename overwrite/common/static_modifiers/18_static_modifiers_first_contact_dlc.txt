@@ -1,0 +1,1147 @@
+##########
+# ORIGINS
+##########
+
+# Broken Shackles
+
+culture_shock_broken_shackles = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_engineering_research.dds"
+	planet_jobs_minerals_produces_mult = -0.029
+	planet_jobs_energy_produces_mult = -0.105
+	planet_jobs_engineering_research_produces_mult = -0.172
+	planet_jobs_physics_research_produces_mult = -0.261
+	planet_jobs_society_research_produces_mult = -0.025
+	icon_frame = 3
+}
+
+free_at_last_broken_shackles = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_victorious_army.dds"
+	pop_citizen_happiness = 0.188
+	pop_housing_usage_mult = -0.310
+	pop_amenities_usage_mult = -0.50
+	planet_jobs_unity_produces_mult = -0.192
+	planet_pops_consumer_goods_upkeep_mult = -0.641
+	pop_ethic_egalitarian_attraction_mult = 0.50
+	icon_frame = 1
+}
+
+unshackled_politics_broken_shackles = {
+	pop_factions_produces_mult = 0.529
+}
+
+broken_shackles_homeworld_found_01 = {
+	pop_happiness = 0.2
+	country_unity_produces_mult = 0.045
+}
+
+broken_shackles_homeworld_found_02 = {
+	pop_happiness = 0.1
+	country_unity_produces_mult = 0.023
+}
+
+broken_shackles_homeworld_found_03 = {
+	icon = "gfx/interface/icons/modifiers/mod_pop_decline_from_emigration.dds"
+	pop_happiness = -0.1
+	country_unity_produces_mult = -0.088
+	pop_government_ethic_attraction = 0.086
+}
+
+broken_shackles_homeworld_found_04 = {
+	pop_happiness = 0.1
+	country_unity_produces_mult = 0.010
+}
+
+broken_shackles_homeworld_found_05 = {
+	country_unity_produces_mult = 0.053
+	pop_government_ethic_attraction = 0.085
+}
+
+broken_shackles_homeworld_found_06 = {
+	planet_jobs_engineering_research_produces_mult = -0.037
+	planet_jobs_physics_research_produces_mult = -0.081
+}
+
+broken_shackles_homeworld_found_07 = {
+	planet_jobs_society_research_produces_mult = -0.119
+}
+
+broken_shackles_homeworld_found_08 = {
+	pop_happiness = -0.1
+	country_unity_produces_mult = 0.051
+}
+
+broken_shackles_homeworlds_found = {
+	pop_happiness = 0.1
+	country_unity_produces_mult = -0.142
+	pop_government_ethic_attraction = 0.178
+	pop_ethic_egalitarian_attraction_mult = 0.25
+}
+
+cost_of_freedom_01 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_penalty.dds"
+	pop_government_ethic_attraction = 0.084
+	planet_crime_mult = 0.1
+}
+
+cost_of_freedom_02 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_bonus.dds"
+	pop_government_ethic_attraction = 0.081
+	pop_amenities_usage_mult = 0.20
+	planet_jobs_energy_produces_mult = -0.112
+}
+
+cost_of_freedom_03 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_bonus.dds"
+	pop_amenities_usage_mult = 0.10
+	pop_ethic_authoritarian_attraction_mult = -0.172
+	planet_jobs_unity_produces_mult = -0.107
+}
+
+cost_of_freedom_04 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_bonus.dds"
+	pop_amenities_usage_mult = 0.10
+	country_society_research_produces_mult = -0.15
+	pop_ethic_egalitarian_attraction_mult = 0.20
+	planet_jobs_unity_produces_mult = -0.127
+}
+
+cost_of_freedom_05 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_bonus.dds"
+	pop_amenities_usage_mult = 0.15
+	pop_ethic_authoritarian_attraction_mult = 0.149
+	planet_jobs_unity_produces_mult = -0.084
+}
+
+cost_of_freedom_06 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_penalty.dds"
+	pop_happiness = -0.2
+	planet_crime_add = -23.591
+	pop_ethic_authoritarian_attraction_mult = 0.111
+	planet_jobs_unity_produces_mult = 0.131
+}
+
+cost_of_freedom_07 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_bonus.dds"
+	planet_crime_mult = -0.20
+	planet_jobs_unity_produces_mult = -0.090
+	pop_amenities_usage_mult = -0.10
+}
+
+cost_of_freedom_08 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_penalty.dds"
+	country_society_research_produces_mult = -0.15
+	pop_ethic_egalitarian_attraction_mult = 0.15
+	planet_jobs_unity_produces_mult = -0.043
+}
+
+cost_of_freedom_09 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_bonus.dds"
+	country_society_research_produces_mult = -0.15
+	pop_ethic_egalitarian_attraction_mult = 0.15
+	planet_jobs_upkeep_mult = 0.25
+}
+
+cost_of_freedom_10 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_bonus.dds"
+	country_society_research_produces_mult = -0.15
+	pop_ethic_egalitarian_attraction_mult = 0.15
+	planet_pops_upkeep_mult = 0.25
+}
+
+cost_of_freedom_11 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_penalty.dds"
+	country_unity_produces_mult = 0.119
+}
+
+cost_of_freedom_12_a = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_penalty.dds"
+	country_society_research_produces_mult = -0.10
+	country_unity_produces_mult = 0.031
+}
+
+cost_of_freedom_12_b = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_penalty.dds"
+	country_society_research_produces_mult = -0.10
+	pop_government_ethic_attraction = 0.116
+}
+
+cost_of_freedom_12_c = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_penalty.dds"
+	country_society_research_produces_mult = -0.10
+	country_consumer_goods_cost_mult = 0.20
+	pop_ethic_materialist_attraction_mult = 0.15
+}
+
+cost_of_freedom_13 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_bonus.dds"
+	planet_crime_mult = -0.30
+	planet_jobs_society_research_produces_mult = -0.035
+	country_unity_produces_mult = 0.183
+}
+
+cost_of_freedom_14 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_bonus.dds"
+	country_consumer_goods_produces_mult = 0.15
+	pop_amenities_usage_mult = -0.10
+	planet_jobs_society_research_produces_mult = 0.002
+	country_unity_produces_mult = 0.085
+}
+
+cost_of_freedom_15 = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_bonus.dds"
+	pop_government_ethic_attraction = 0.157
+	planet_jobs_society_research_produces_mult = 0.130
+	country_unity_produces_mult = 0.172
+}
+
+gains_of_freedom = {
+	icon = "gfx/interface/icons/modifiers/cost_of_freedom_bonus.dds"
+	pop_happiness = 0.10
+	planet_crime_mult = -0.10
+	planet_jobs_produces_mult = 0.185
+	planet_jobs_society_research_produces_mult = -0.028
+	country_unity_produces_mult = 0.023
+	pop_government_ethic_attraction = 0.145
+}
+
+diverse_design = {
+	country_produces_mult = 0.05
+	country_consumer_goods_produces_mult = 0.1
+	planet_jobs_specialist_produces_mult = -0.025
+	pop_happiness = 0.1
+}
+
+unshackled_decryption = {
+	icon = "gfx/interface/icons/modifiers/mod_found_encryption_key.dds"
+	intel_decryption_add = 0.709
+}
+
+broken_shackles_MSI_found = {
+	pop_happiness = 0.1
+	country_unity_produces_mult = -0.052
+}
+
+broken_shackles_MSI_contact_01 = {
+	planet_stability_add = -6.586
+}
+
+broken_shackles_MSI_contact_02 = {
+	country_unity_produces_mult = -0.074
+}
+
+broken_shackles_war_01 = {
+	country_unity_produces_mult = 0.116
+	ships_upkeep_mult = -0.170
+	armies_upkeep_mult = -0.924
+	armies_cost_mult = -0.5
+	planet_army_build_speed_mult = 1.0
+}
+
+broken_shackles_war_02 = {
+	pop_happiness = -0.1
+}
+
+broken_shackles_war_03 = {
+	pop_happiness = 0.1
+	country_unity_produces_mult = 0.264
+	pop_government_ethic_attraction = 0.248
+	country_produces_mult = 0.05
+	country_consumer_goods_produces_mult = 0.1
+	planet_jobs_specialist_produces_mult = 0.082
+}
+
+broken_shackles_war_04 = {
+	pop_happiness = -0.05
+}
+
+broken_shackles_federated_01 = {
+	pop_government_ethic_attraction = -0.288
+}
+
+broken_shackles_federated_02 = {
+	pop_government_ethic_attraction = -0.286
+	pop_happiness = -0.1
+}
+
+broken_shackles_slavery_outlawed = {
+	pop_happiness = 0.1
+	country_unity_produces_mult = 0.167
+}
+
+broken_shackles_slavery_continues = {
+	pop_happiness = -0.2
+	planet_jobs_minerals_produces_mult = -0.152
+	planet_jobs_energy_produces_mult = -0.138
+	planet_jobs_engineering_research_produces_mult = -0.051
+	planet_jobs_physics_research_produces_mult = -0.018
+	planet_jobs_society_research_produces_mult = 0.029
+}
+
+broken_shackles_slavery_repeal = {
+	pop_happiness = -0.1
+	pop_government_ethic_attraction = 0.066
+	pop_ethic_egalitarian_attraction_mult = 0.1
+}
+
+broken_shackles_reconciliation = {
+	pop_happiness = -0.1
+	country_unity_produces_mult = 0.000
+	pop_government_ethic_attraction = 0.039
+}
+
+broken_shackles_arc_site = {
+	planet_jobs_engineering_research_produces_mult = -0.215
+}
+
+broken_shackles_homeworld_uplifted = {
+	pop_happiness = 0.2
+	pop_government_ethic_attraction = -0.082
+	pop_ethic_egalitarian_attraction_mult = 0.15
+}
+
+# Fear of the Dark
+
+fotd_settled_differences = {
+	num_tech_alternatives_add = -0.741
+	country_leader_pool_size = -0.928
+}
+
+fotd_triumviri = {
+	country_government_civic_points_add = 1
+	tradition_cost_empire_size_mult = 0.222
+}
+
+fotd_alien_shock = {
+	planet_stability_add = -1.014
+}
+
+fotd_alien_terrified = {
+	planet_stability_add = -2.579
+}
+
+fotd_forced_to_stay = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	job_criminal_add = 2
+}
+
+fotd_refusal_to_work = {
+	all_technology_research_speed = -0.233
+}
+
+fotd_disunity = {
+	pop_happiness = -0.05
+}
+
+fotd_unified_stance = {
+	shipsize_corvette_build_speed_mult = 0.034
+	shipsize_destroyer_build_speed_mult = 0.090
+	shipsize_cruiser_build_speed_mult = 0.188
+	shipsize_battleship_build_speed_mult = 0.058
+}
+
+fotd_unified_purpose = {
+	shipsize_corvette_build_speed_mult = 0.228
+	shipsize_destroyer_build_speed_mult = 0.219
+	shipsize_cruiser_build_speed_mult = 0.197
+	shipsize_battleship_build_speed_mult = -0.084
+}
+
+fotd_secure_contact = {
+	icon = "gfx/interface/icons/modifiers/mod_ghost_signal.dds"
+	first_contact_speed_mult = -0.639
+}
+
+fotd_assited_shipyards = {
+	shipsize_corvette_build_speed_mult = 0.032
+	shipsize_destroyer_build_speed_mult = 0.079
+	shipsize_cruiser_build_speed_mult = 0.025
+	shipsize_battleship_build_speed_mult = 0.052
+}
+
+fotd_assisted_fleet = {
+	ship_speed_mult = 0.076
+	ship_fire_rate_mult = 0.011
+	ship_evasion_mult = 0.05
+}
+
+fotd_unified_fleet = {
+	ship_speed_mult = 0.024
+	ship_fire_rate_mult = 0.142
+	ship_evasion_mult = 0.075
+}
+
+slowed_science_ships = {
+	science_ship_survey_speed = -0.817
+}
+
+slowed_first_contact = {
+	icon = "gfx/interface/icons/modifiers/mod_ghost_signal.dds"
+	first_contact_speed_mult = 0.423
+}
+
+supporting_haven = {
+	country_alloys_produces_mult = -0.108
+	country_food_produces_mult = -0.2
+	country_energy_produces_mult = -0.479
+}
+
+promised_no_shroud = {
+	icon = "gfx/interface/icons/modifiers/mod_shroud_unavailable.dds"
+}
+
+have_no_voice = {
+	diplo_weight_mult = 0.575
+}
+
+ruined_mass_driver = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_city_ruins.dds"
+	icon_frame = 1
+}
+
+fotd_extorted_seperatists = {
+	trade_value_mult = 0.081
+}
+
+fotd_rationed_living = {
+	icon = "gfx/interface/icons/modifiers/mod_unity_loss_mult.dds"
+	country_unity_produces_mult = 0.015
+}
+
+#Payback
+
+payback_curfew = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_martial_law.dds"
+	icon_frame = 3
+	job_soldier_stability_add = 10
+	pop_growth_speed = -0.281
+	pop_growth_from_immigration = -0.069
+	planet_pop_assembly_mult = -0.429
+	planet_pop_assembly_organic_mult = 0.145
+	job_soldier_add = 2
+}
+
+payback_freedom_of_speech = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 3
+	planet_stability_add = -7.978
+	pop_ethics_shift_speed_mult = -0.320
+}
+
+payback_declining_healthcare = {
+	icon = "gfx/interface/icons/modifiers/mod_negative_pop_growth_req.dds"
+	pop_growth_speed_reduction = 0.105
+	pop_citizen_happiness = 0.021
+}
+
+payback_declining_healthcare_alt = {
+	icon = "gfx/interface/icons/modifiers/mod_negative_pop_growth_req.dds"
+	pop_growth_speed_reduction = -0.064
+}
+
+payback_declining_healthcare_necro = {
+	icon = "gfx/interface/icons/modifiers/mod_negative_pop_growth_req.dds"
+	pop_growth_speed_reduction = 0.027
+	pop_citizen_happiness = 0.096
+}
+
+payback_healing_scars = {
+	country_unity_produces_mult = 0.094
+}
+
+payback_debris_field = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_asteroid_belt.dds"
+	icon_frame = 3
+	pop_environment_tolerance = 0.275
+	planet_structures_cost_mult = 0.207
+	planet_structures_upkeep_mult = 0.656
+}
+
+payback_gave_up_pop = {
+	icon = "gfx/interface/icons/modifiers/mod_pop_surrendered.dds"
+	pop_happiness = -0.2
+}
+
+payback_unified_purpose = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_victorious_army.dds"
+	icon_frame = 1
+	pop_happiness = 0.15
+	planet_amenities_mult = 0.25
+	planet_jobs_produces_mult = 0.194
+	job_unifier_add = 2
+}
+
+payback_revenge_words = {
+	icon = "gfx/interface/icons/modifiers/mod_left_galactic_community.dds"
+	diplo_weight_mult = 0.710
+}
+
+payback_no_revenge = {
+	icon = "gfx/interface/icons/modifiers/mod_unity_gain_mult.dds"
+	country_unity_produces_mult = 0.563
+}
+
+payback_no_revenge_small = {
+	icon = "gfx/interface/icons/modifiers/mod_unity_gain_mult.dds"
+	country_unity_produces_mult = 0.023
+}
+
+payback_student = {
+	icon = "gfx/interface/icons/modifiers/mod_country_subject_technology_sharing_mult.dds"
+	custom_tooltip = payback_student_tooltip
+}
+
+payback_underdog = {
+	custom_tooltip = payback_underdog_tooltip
+	show_only_custom_tooltip = yes
+	damage_vs_country_type_swarm_mult = 0.2
+	damage_vs_country_type_extradimensional_mult = 0.2
+	damage_vs_country_type_extradimensional_2_mult = 0.2
+	damage_vs_country_type_extradimensional_3_mult = 0.2
+	damage_vs_country_type_ai_empire_mult = 0.2
+	damage_vs_country_type_gray_goo_mult = 0.2
+	damage_vs_player_crisis_mult = 0.2
+}
+
+payback_underdog_khan = {
+	damage_vs_country_type_dormant_marauders_mult = 0.5
+	damage_vs_country_type_awakened_marauders_mult = 0.5
+	damage_vs_country_type_pirate_mult = 0.5
+}
+
+# Fear of the Dark
+fotd_secure_contact = {
+icon = "gfx/interface/icons/modifiers/mod_ghost_signal.dds"
+	first_contact_speed_mult = -0.938
+}
+
+fotd_terrified_outraged = {
+	all_technology_research_speed = 0.041
+	country_unity_produces_mult = 0.033
+	intel_decryption_add = -1.834
+}
+
+#####################
+# OBSERVATION EVENTS
+#####################
+
+protect_our_image = {
+	icon = "gfx/interface/icons/modifiers/mod_faction_approval.dds"
+	icon_frame = 1
+	pop_government_ethic_attraction = 0.505
+}
+
+show_some_restraint = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_alien_propaganda.dds"
+	icon_frame = 1
+	pop_government_ethic_attraction = 0.419
+}
+
+food_crisis = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_hunger_strike.dds"
+	icon_frame = 1
+	country_food_produces_mult = -0.3
+}
+
+rock_crisis = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_hunger_strike.dds"
+	icon_frame = 1
+	country_minerals_produces_mult = -0.3
+}
+
+food_abundance = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_planet_surface.dds"
+	icon_frame = 1
+	country_food_produces_mult = 0.3
+}
+
+rock_abundance = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_planet_surface.dds"
+	icon_frame = 1
+	country_minerals_produces_mult = 0.3
+}
+
+hands_off_approach = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_artist_monument_erected.dds"
+	icon_frame = 1
+	custom_tooltip = hands_off_approach_tt
+}
+
+irreconcilable_differences = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_drilling_for_gas.dds"
+	icon_frame = 3
+	pop_happiness = -0.10
+}
+
+support_the_revolution = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_victorious_army.dds"
+	icon_frame = 1
+	country_unity_produces_mult = -0.288
+}
+
+unspoken_grief = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_victorious_army.dds"
+	icon_frame = 3
+	pop_government_ethic_attraction = 0.110
+	pop_happiness = -0.2
+}
+
+art_is_dead = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_alien_propaganda.dds"
+	icon_frame = 3
+	pop_ethic_authoritarian_attraction_mult = 0.040
+	country_unity_produces_mult = 0.095
+}
+
+artistic_boom = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_natural_beauty.dds"
+	icon_frame = 1
+	job_entertainer_add = 2
+}
+
+divine_will = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_unknown.dds"
+	icon_frame = 1
+	pop_growth_speed = 0.577
+}
+
+fires_of_industry = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_burning_settlement.dds"
+	icon_frame = 3
+	pop_environment_tolerance = -0.026
+}
+
+pre_ftl_research_outpost = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_landing_ship.dds"
+	icon_frame = 1
+}
+
+inadvertent_jailer = {
+	pop_happiness = -0.02
+}
+
+###################
+# DIPLOMACY EVENTS
+###################
+pre_ftl_research_outpost = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_landing_ship.dds"
+	icon_frame = 1
+}
+
+inadvertent_jailer = {
+	pop_happiness = -0.02
+}
+
+# Diplomacy Events
+
+pre_ftl_distrustful = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_slave_riots.dds"
+	icon_frame = 3
+	custom_tooltip = pre_ftl_distrustful_tooltip
+	diplo_action_acceptance_add = -1000
+}
+
+observation_unforeseen_problems = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_assist_research.dds"
+	icon_frame = 3
+	station_observers_society_research_produces_mult = -0.10
+}
+
+observation_on_hold = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_assist_research.dds"
+	icon_frame = 3
+	station_observers_society_research_produces_mult = -0.9
+}
+
+divine_will = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_unknown.dds"
+	icon_frame = 1
+	pop_growth_speed = 0.684
+}
+
+power_flip = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_victorious_army.dds"
+	icon_frame = 1
+	pop_cat_ruler_political_power = -0.1
+	pop_cat_worker_political_power = 0.1
+}
+
+waking_workers = {
+	icon = "gfx/interface/icons/modifiers/mod_pop_ethic_shift.dds"
+	pop_cat_worker_happiness = 0.087
+	pop_cat_slave_happiness = -0.027
+}
+
+compromised_security = {
+	icon = "gfx/interface/icons/modifiers/mod_intel_encryption_add.dds"
+	station_observers_society_research_produces_mult = -0.5
+}
+
+stand_your_ground = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 1
+	pop_cat_ruler_political_power = 0.9
+}
+
+freeport_smuggling = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_smugglers_in_bar.dds"
+	icon_frame = 3
+	job_criminal_add = 1
+}
+
+sweet_tooth_blockade = {
+	country_naval_cap_add = 9.467
+}
+
+sweet_tooth_medecine = {
+	country_society_research_produces_mult = -0.1
+}
+
+fruitful_coop_planet_mod = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_smugglers_in_bar.dds"
+	icon_frame = 1
+	trade_value_mult = 0.286
+}
+
+fruitful_coop_country_mod = {
+	trade_value_mult = 0.075
+}
+
+preftl_hagglers_mod = {
+	trade_value_mult = 0.107
+}
+
+preftl_action_trade_pact = {
+	# This modifier is intentionally left blank, it is checked in the no_observation mission in 00_missions.txt.
+}
+
+stuffed_toy = {
+	icon = "gfx/interface/icons/modifiers/mod_stuffed_toy.dds"
+	planet_stability_add = -0.629
+	pop_happiness = 0.02
+	diplo_weight_mult = 0.008
+}
+
+plushie_tariff = {
+	station_observers_energy_produces_add = 10
+}
+
+tech_abusers = {
+	icon = "gfx/interface/icons/modifiers/mod_add_base_country_intel.dds"
+	trade_value_mult = -0.011
+}
+straight_talkers = {
+	icon = "gfx/interface/icons/modifiers/mod_cat_diplomacy.dds"
+	pop_cat_ruler_political_power = 0.5
+}
+
+no_worries = {
+	icon = "gfx/interface/icons/modifiers/mod_pop_happiness.dds"
+	pop_happiness = 0.2
+}
+
+#################################
+# PRE-FTL OBSERVATION SITUATIONS
+#################################
+
+plague_01_spiritualist = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_alien_propaganda.dds"
+	icon_frame = 1
+	pop_ethic_spiritualist_attraction_mult = 0.578
+ 	country_unity_produces_mult = -0.028
+}
+
+plague_01_militarist = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_unrest.dds"
+	icon_frame = 1
+	pop_ethic_militarist_attraction_mult = 0.3
+ 	country_unity_produces_mult = 0.179
+}
+
+plague_02 = {
+	pop_happiness = 0.15
+	country_unity_produces_mult = 0.011
+}
+
+plague_03_spiritualist = {
+	pop_happiness = 0.1
+	pop_government_ethic_attraction = -0.138
+	planet_administrators_upkeep_mult = -0.110
+}
+
+plague_03_militarist = {
+	pop_happiness = 0.1
+	pop_government_ethic_attraction = 0.564
+	army_starting_experience_add = 84.771
+}
+
+plague_04 = {
+	pop_ethic_xenophobe_attraction_mult = 0.3
+	country_unity_produces_mult = 0.160
+}
+
+plague_05 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_victorious_army.dds"
+	icon_frame = 3
+	pop_happiness = -0.2
+	pop_growth_speed = 0.049
+}
+
+young_leaders = {
+	leader_lifespan_add = -14.054
+}
+
+young_people = {
+	biological_pop_happiness = -0.075
+	lithoid_pop_happiness = 0.144
+}
+
+bane_of_the_prophetess = {
+	pop_ethic_militarist_attraction_mult = 0.15
+	ship_weapon_damage = 0.097
+}
+
+bane_of_the_prophetess_gestalt = {
+	ship_weapon_damage = 0.028
+}
+
+charynoi_redemption = {
+	country_unity_produces_mult = 0.083
+	station_observers_produces_mult = 0.5
+}
+
+paradisiacal_habitat_science = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_natural_beauty.dds"
+	icon_frame = 1
+	pop_environment_tolerance = -0.095
+	district_hab_science_max = 10
+	planet_max_buildings_add = 13.440
+}
+
+paradisiacal_habitat_energy = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_natural_beauty.dds"
+	icon_frame = 1
+	pop_environment_tolerance = 0.953
+	district_hab_energy_max = 10
+	planet_max_buildings_add = 48.156
+}
+
+paradisiacal_habitat_mining = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_natural_beauty.dds"
+	icon_frame = 1
+	pop_environment_tolerance = 0.971
+	district_hab_mining_max = 10
+	planet_max_buildings_add = 9.411
+}
+
+singularity_situation_01 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_luxuries.dds"
+	icon_frame = 1
+	pop_growth_speed = 0.209
+	pop_happiness = 0.1
+	country_minerals_produces_mult = 0.1
+}
+
+singularity_situation_02 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_luxuries.dds"
+	icon_frame = 1
+	pop_growth_speed = -0.114
+	pop_happiness = 0.1
+	country_food_produces_mult = 0.1
+}
+
+singularity_situation_03 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_microscopic_life.dds"
+	icon_frame = 1
+	country_minerals_produces_mult = 0.2
+}
+
+singularity_situation_04 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_microscopic_life.dds"
+	icon_frame = 1
+	country_food_produces_mult = 0.2
+}
+
+singularity_situation_05 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources_2.dds"
+	icon_frame = 3
+	planet_amenities_mult = -0.2
+}
+
+singularity_situation_06 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_engineering_research.dds"
+	icon_frame = 1
+	country_physics_research_produces_mult = 0.172
+	country_engineering_research_produces_mult = 0.10
+	country_society_research_produces_mult = 0.10
+}
+
+singularity_situation_07 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_missing_offspring.dds"
+	icon_frame = 3
+	planet_jobs_slave_produces_mult = 0.244
+	country_pop_enslaved_mult = 0.40
+}
+
+nwo_situation_01 = {
+	icon = "gfx/interface/icons/modifiers/mod_unity_produces_add.dds"
+	pop_happiness = 0.1
+	pop_ethic_authoritarian_attraction_mult = -0.479
+	country_unity_produces_mult = -0.039
+}
+
+nwo_situation_02 = {
+	icon = "gfx/interface/icons/modifiers/mod_unity_produces_add.dds"
+	pop_happiness = 0.15
+	pop_ethic_egalitarian_attraction_mult = 0.5
+	country_unity_produces_mult = -0.003
+}
+
+nwo_situation_03 = {
+	icon = "gfx/interface/icons/modifiers/mod_cat_diplomacy.dds"
+	pop_government_ethic_attraction = 0.036
+	country_alloys_produces_mult = -0.208
+	country_minerals_produces_mult = -0.1
+	country_energy_produces_mult = -0.117
+}
+
+# Pre-FTL Diplomatic Events
+
+pre_ftl_diplomatic_01 = {
+	icon = "gfx/interface/icons/modifiers/mod_country_edict_cost.dds"
+	icon_frame = 3
+	country_energy_produces_mult = -0.185
+	country_unity_produces_mult = -0.062
+	planet_jobs_productive_upkeep_mult = 0.10
+	country_consumer_goods_produces_mult = -0.05
+}
+
+pre_ftl_diplomatic_02 = {
+	icon = "gfx/interface/icons/modifiers/mod_country_edict_cost.dds"
+	icon_frame = 3
+	pop_government_ethic_attraction = -0.188
+	country_energy_produces_mult = -0.099
+	planet_jobs_productive_upkeep_mult = 0.05
+	country_consumer_goods_produces_mult = -0.05
+}
+
+pre_ftl_diplomatic_03 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources_2.dds"
+	icon_frame = 3
+	country_consumer_goods_produces_mult = -0.1
+	country_energy_produces_mult = -0.167
+	planet_stability_add = -10.864
+	planet_crime_add = 5.960
+}
+
+pre_ftl_diplomatic_04 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources_2.dds"
+	icon_frame = 1
+	country_consumer_goods_produces_mult = 0.1
+	planet_stability_add = 1.656
+}
+
+pre_ftl_diplomatic_05 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources_2.dds"
+	icon_frame = 3
+	pop_government_ethic_attraction = 0.030
+	pop_amenities_usage_mult = 0.20
+	country_energy_produces_mult = -0.388
+	planet_stability_add = -15.490
+	planet_crime_add = -1.993
+}
+
+#######################
+# OBSERVATION INSIGHTS
+#######################
+
+# These negate half of the sub-light speed penalty from cloaking.
+very_low_cloaking_predator = {
+	ship_base_speed_mult = 0.25
+}
+low_cloaking_predator = {
+	ship_base_speed_mult = 0.20
+}
+medium_cloaking_predator = {
+	ship_base_speed_mult = 0.15
+}
+high_cloaking_predator = {
+	ship_base_speed_mult = 0.10
+}
+very_high_cloaking_predator = {
+	ship_base_speed_mult = 0.05
+}
+exceptional_cloaking_predator = {
+}
+
+satisfying_insult_recently = {
+	country_unity_produces_mult = -0.002
+	planet_stability_add = 2.632
+	pop_happiness = 0.02
+}
+
+insight_unity_5 = {
+	station_observers_unity_produces_add = 5
+}
+
+insight_influence_01 = {
+	station_observers_influence_produces_add = 0.1
+}
+
+insight_physics_5 = {
+	station_observers_physics_research_produces_add = 5
+}
+
+insight_society_5 = {
+	station_observers_society_research_produces_add = 5
+}
+
+insight_engineering_5 = {
+	station_observers_engineering_research_produces_add = 5
+}
+
+# Cloaking cooldown. Applied to all ships that has a cloaking cooldown.
+cloaking_cooldown = {
+}
+
+cloaking_fire_rate_bonus = {
+	ship_fire_rate_mult = 2.840
+}
+
+assist_cloaking_detection = {
+	ship_cloaking_detection_add = 0.290
+}
+
+active_reconnaissance_speed = {
+	intel_gain_speed = 0.10
+}
+
+active_reconnaissance_level = {
+	intel_reconnaissance_level_add = 20
+}
+
+nebula_cloaking = {
+	ship_cloaking_strength_add = 2.960
+}
+
+# pre-FTL Diplomatic Event modifiers
+
+pre_ftl_diplomacy_01 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_specialist_orator_neighbor.dds"
+	icon_frame = 1
+	planet_amenities_mult = 0.15
+	trade_value_mult = 0.089
+	planet_jobs_produces_mult = 0.217
+}
+
+pre_ftl_diplomacy_02 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_specialist_orator_neighbor.dds"
+	icon_frame = 1
+	planet_jobs_produces_mult = 0.158
+	job_culture_worker_add = 2
+}
+
+angered_solarpunk = {
+	ship_military_upkeep_mult = -0.5
+	country_naval_cap_add = 284.749
+}
+
+####################
+# PRE-FTL ESPIONAGE
+####################
+
+# Spy Network scope
+spynetwork_hive_mimicry = {
+	espionage_operation_difficulty_add = 1
+	spy_network_daily_value_mult = 0.033
+}
+spynetwork_extra_containment = {
+	spy_network_daily_value_mult = -0.913
+	# espionage_operation_speed_mult = -0.5
+}
+spynetwork_blackmailed = {
+	spy_network_daily_value_mult = -0.217
+}
+spynetwork_hive_no_pheromones = {
+	espionage_operation_difficulty_add = 1
+}
+
+# Operation scope
+operation_pariahs = {
+	espionage_operation_difficulty_add = 2
+}
+operation_no_more_distractions = {
+	espionage_operation_difficulty_add = 1
+}
+operation_academic_bribery_caught = {
+	espionage_operation_difficulty_add = 2
+}
+operation_academic_bribery = {
+	espionage_operation_difficulty_add = -2
+}
+operation_stricken_operatives = {
+	espionage_operation_difficulty_add = 3
+}
+
+# Country scope
+espionage_hive_mimicry = {
+	icon = "gfx/interface/icons/modifiers/mod_found_encryption_key.dds"
+	intel_decryption_add = 6.855
+}
+
+# Planet scope
+observation_distraction_insights = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_assist_research.dds"
+	icon_frame = 1 # green
+	station_observers_society_research_produces_mult = 0.10
+}
+espionage_pre_ftl_indoctrination_authoritarian = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 2 # yellow
+	pop_ethic_authoritarian_attraction_mult = 0.207
+}
+espionage_pre_ftl_indoctrination_egalitarian = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 2 # yellow
+	pop_ethic_egalitarian_attraction_mult = 0.3
+}
+espionage_pre_ftl_indoctrination_materialist = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 2 # yellow
+	pop_ethic_materialist_attraction_mult = 0.3
+}
+espionage_pre_ftl_indoctrination_militarist = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 2 # yellow
+	pop_ethic_militarist_attraction_mult = 0.3
+}
+espionage_pre_ftl_indoctrination_pacifist = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 2 # yellow
+	pop_ethic_pacifist_attraction_mult = 0.163
+}
+espionage_pre_ftl_indoctrination_spiritualist = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 2 # yellow
+	pop_ethic_spiritualist_attraction_mult = 0.057
+}
+espionage_pre_ftl_indoctrination_xenophile = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 2 # yellow
+	pop_ethic_xenophile_attraction_mult = 0.3
+}
+espionage_pre_ftl_indoctrination_xenophobe = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 2 # yellow
+	pop_ethic_xenophobe_attraction_mult = 0.3
+}
+
+####################
+# PRE-FTL DIPLOMACY
+####################
+
+culture_shock_diplomacy = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_stellar_culture_shock.dds"
+	custom_tooltip = culture_shock_diplomacy_effects
+	icon_frame = 3
+}

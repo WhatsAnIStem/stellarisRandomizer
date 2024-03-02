@@ -1,0 +1,618 @@
+### CARAVANEERS
+
+extended_payout_goodest = {
+	country_extended_payout_minerals_produces_add = 40
+	country_extended_payout_energy_produces_add = 40
+}
+
+extended_payout_good = {
+	country_extended_payout_minerals_produces_add = 6
+	country_extended_payout_energy_produces_add = 6
+}
+
+slots_disappointment = {
+	country_influence_produces_mult = -0.1
+}
+
+galatron_modifier = {
+	country_base_influence_produces_add = 2
+	country_base_unity_produces_add = 2
+}
+
+galatron_lost = {
+	pop_happiness = -0.1
+	planet_stability_add = -3.411
+}
+
+ancient_trade_route = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_luxuries.dds"
+	icon_frame = 1
+	trade_value_mult = 0.121
+}
+
+galatron_energy = {
+	country_energy_produces_mult = 0.267
+}
+
+galatron_minerals = {
+	country_minerals_produces_mult = 0.30
+}
+
+galatron_food = {
+	country_minerals_produces_mult = 0.30
+}
+
+galatron_unity = {
+	country_unity_produces_mult = -0.085
+}
+
+caravaneer_trade_secrets = {
+	trade_value_mult = -0.050
+}
+
+bunkbeds_deployed = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources.dds"
+	icon_frame = 1
+	planet_housing_mult = 0.10
+}
+
+tupperware_deployed = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources.dds"
+	icon_frame = 1
+	planet_pops_organics_food_upkeep_mult = -0.151
+}
+
+atmospheric_deodorizer_deployed = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources.dds"
+	icon_frame = 1
+	planet_immigration_pull_mult = -0.150
+	pop_growth_from_immigration = -0.069
+}
+
+racket_energy_extractor = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_faith_in_science.dds"
+	icon_frame = 1
+}
+
+racket_generator_regulator = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_unknown.dds"
+	icon_frame = 1
+	planet_technician_energy_produces_mult = 0.419
+}
+
+contingency_sabotage = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_contingency_sabotage.dds"
+	icon_frame = 1
+	planet_jobs_energy_produces_mult = 0.112
+}
+
+vengralian_sales_contingent = {
+	trade_value_mult = 0.174
+}
+
+6monthsocietycost = {
+	country_society_research_produces_mult = -1
+}
+
+galactic_market_founder = {
+	country_trade_fee = -0.1
+}
+
+criminal_underworld = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_crime_add = 27.376
+	job_criminal_add = 1
+	job_criminal_per_crime = 0.03
+}
+
+drone_deviancy = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_crime_no_happiness_add = 15
+	job_deviant_drone_add = 1
+	job_deviant_drone_per_crime = 0.03
+}
+
+drone_corruption = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_crime_no_happiness_add = 15
+	job_corrupt_drone_add = 1
+	job_corrupt_drone_per_crime = 0.03
+}
+
+gang_wars = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_crime_add = 6.810
+	job_criminal_add = 3
+}
+
+center_of_drug_trade = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_crime_add = 56.185
+	job_criminal_add = 3
+}
+
+mob_rule = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_crime_add = -15.491
+	job_criminal_add = 3
+}
+
+bribed_officials = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_stability_add = 7.643
+}
+
+substance_abuse = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_jobs_produces_mult = -0.207
+}
+
+smuggler_activity = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	trade_value_mult = -0.392
+}
+
+crime_wave = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_crime_add = 3.332
+}
+
+travel_advisory = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	trade_value_mult = 0.174
+}
+
+cartel_war = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_stability_add = -22.131
+}
+
+protection_racket = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_jobs_produces_mult = -0.380
+}
+
+corrupt_administration = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_stability_add = 18.066
+}
+
+trade_pilfering = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	trade_value_mult = -0.011
+}
+
+crime_boss_arrested = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 1
+	planet_crime_add = 4.380
+}
+
+deviant_interference = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_stability_add = -14.001
+}
+
+drone_signal_interference = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_stability_add = -28.716
+}
+
+ringleader_killed = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 1
+	planet_crime_add = -43.269
+}
+
+corrupt_network_terminated = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 1
+	planet_crime_add = 15.680
+}
+
+anticrime_campaign = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 1
+	show_only_custom_tooltip = no
+	custom_tooltip = anticrime_campaign_tooltip
+}
+
+crime_lord_deal = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 2
+	planet_stability_add = -0.222
+	planet_crime_mult = 0.5
+	job_criminal_add = 2
+	job_criminal_per_crime = 0.03
+}
+
+crime_lord_deal_broken = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 2
+	planet_stability_add = -0.252
+	job_criminal_per_crime = 0.03
+}
+
+unemployment_benefits = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources_2.dds"
+	icon_frame = 2
+	planet_pops_unemployed_consumer_goods_upkeep_add = 2
+}
+
+activity_program = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources_2.dds"
+	icon_frame = 2
+	#effect is added on the actual job: scavenger_drone since HMs don't have unemployment
+	custom_tooltip = activity_program_tooltip
+}
+standby_mode = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources_2.dds"
+	icon_frame = 2
+	unemployment_resources_energy_upkeep_add = 2
+	custom_tooltip = standby_mode_tooltip
+}
+consecrated_worlds_mourning = {
+	pop_happiness = -0.10
+}
+
+strategic_coordination_center_modifier = {
+	country_naval_cap_add = 280.764
+	shipclass_starbase_damage_mult = 0.50
+	starbase_defense_platform_capacity_add = 24
+	shipsize_corvette_build_speed_mult = 0.328
+	shipsize_destroyer_build_speed_mult = 0.106
+	shipsize_cruiser_build_speed_mult = 0.392
+	shipsize_battleship_build_speed_mult = 0.012
+	shipsize_offspring_corvette_build_speed_mult = 0.440
+	shipsize_offspring_destroyer_build_speed_mult = 0.426
+	shipsize_offspring_cruiser_build_speed_mult = 0.110
+	shipsize_offspring_battleship_build_speed_mult = -0.197
+	shipsize_frigate_build_speed_mult = -0.089
+}
+
+spawn_pool_stimulants = {
+	pop_growth_speed = 0.069
+}
+
+numistic_magnetostrips = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_robots.dds"
+	icon_frame = 1
+	planet_pops_robotics_upkeep_mult = 0.049
+}
+
+planet_culture_shock = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_slave_riots.dds"
+	icon_frame = 3
+	planet_jobs_produces_mult = -0.587
+	planet_stability_add = -2.238
+	species_empire_size_mult = -0.419
+}
+
+### DECISIONS
+
+martial_law = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_martial_law.dds"
+	icon_frame = 2
+	job_soldier_stability_add = 5
+	planet_jobs_produces_mult = -0.398
+	pop_growth_speed = 0.285
+	pop_growth_from_immigration = -0.501
+	planet_pop_assembly_mult = -0.166
+	planet_pop_assembly_organic_mult = -0.615
+	job_soldier_add = 2
+}
+
+hunter_killer_drones = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_martial_law_hive.dds"
+	icon_frame = 2
+	job_soldier_stability_add = 5
+	planet_jobs_produces_mult = -0.744
+	pop_growth_speed = -0.402
+	pop_growth_from_immigration = 0.101
+	planet_pop_assembly_mult = -0.882
+	planet_pop_assembly_organic_mult = -0.595
+	job_warrior_drone_add = 2
+}
+
+compliance_protocols = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_martial_law_machine.dds"
+	icon_frame = 2
+	job_soldier_stability_add = 5
+	planet_jobs_produces_mult = -0.455
+	pop_growth_speed = -0.819
+	pop_growth_from_immigration = -0.902
+	planet_pop_assembly_mult = -0.864
+	planet_pop_assembly_organic_mult = -0.995
+	job_warrior_drone_add = 2
+}
+
+planet_food_boost = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources.dds"
+	icon_frame = 1
+	pop_growth_speed = -0.144
+}
+
+planet_luxuries_boost = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_luxuries.dds"
+	icon_frame = 1
+	planet_amenities_mult = 0.25
+	planet_immigration_pull_mult = 0.181
+}
+
+consecrated_modifier_12 = {
+	country_unity_produces_mult = 0.485
+	planet_amenities_mult = 0.15
+	pop_ethic_spiritualist_attraction_mult = 0.445
+}
+
+consecrated_modifier_11 = {
+	country_unity_produces_mult = 0.134
+	planet_amenities_mult = 0.12
+	pop_ethic_spiritualist_attraction_mult = 0.402
+}
+
+consecrated_modifier_10 = {
+	country_unity_produces_mult = -0.145
+	planet_amenities_mult = 0.10
+	pop_ethic_spiritualist_attraction_mult = 0.382
+}
+consecrated_modifier_9 = {
+	country_unity_produces_mult = -0.075
+	planet_amenities_mult = 0.09
+	pop_ethic_spiritualist_attraction_mult = 0.087
+}
+consecrated_modifier_8 = {
+	country_unity_produces_mult = -0.045
+	planet_amenities_mult = 0.08
+	pop_ethic_spiritualist_attraction_mult = -0.094
+}
+consecrated_modifier_7 = {
+	country_unity_produces_mult = -0.074
+	planet_amenities_mult = 0.07
+	pop_ethic_spiritualist_attraction_mult = -0.093
+}
+consecrated_modifier_6 = {
+	country_unity_produces_mult = -0.114
+	planet_amenities_mult = 0.06
+	pop_ethic_spiritualist_attraction_mult = 0.123
+}
+consecrated_modifier_5 = {
+	country_unity_produces_mult = -0.065
+	planet_amenities_mult = 0.05
+	pop_ethic_spiritualist_attraction_mult = -0.098
+}
+consecrated_modifier_4 = {
+	country_unity_produces_mult = 0.095
+	planet_amenities_mult = 0.04
+	pop_ethic_spiritualist_attraction_mult = -0.053
+}
+consecrated_modifier_3 = {
+	country_unity_produces_mult = 0.087
+	planet_amenities_mult = 0.03
+	pop_ethic_spiritualist_attraction_mult = -0.046
+}
+consecrated_modifier_2 = {
+	country_unity_produces_mult = 0.016
+	planet_amenities_mult = 0.02
+	pop_ethic_spiritualist_attraction_mult = 0.004
+}
+consecrated_modifier_1 = {
+	country_unity_produces_mult = 0.026
+	planet_amenities_mult = 0.01
+	pop_ethic_spiritualist_attraction_mult = 0.002
+}
+consecrated_quality_1 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_consecrated_worlds.dds"
+	icon_frame = 2
+}
+consecrated_quality_2 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_consecrated_worlds.dds"
+	icon_frame = 2
+}
+consecrated_quality_3 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_consecrated_worlds.dds"
+	icon_frame = 1
+}
+consecrated_quality_4 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_consecrated_worlds.dds"
+	icon_frame = 1
+}
+
+market_nominee_level_1 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_planet_from_space.dds"
+	icon_frame = 1
+}
+
+market_nominee_level_2 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_planet_from_space.dds"
+	icon_frame = 1
+}
+
+market_nominee_level_3 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_planet_from_space.dds"
+	icon_frame = 1
+}
+
+market_nominee_level_4 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_planet_from_space.dds"
+	icon_frame = 1
+}
+
+market_nominee_level_5 = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_planet_from_space.dds"
+	icon_frame = 1
+}
+
+pm_study_the_sea = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_assist_research.dds"
+	icon_frame = 1
+}
+
+galatron_naval_cap1 = {
+	country_naval_cap_add = 16.172
+}
+
+planet_population_control = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 2
+	custom_tooltip = STOPS_POPULATION_GROWTH
+	show_only_custom_tooltip = no
+	planet_stability_add = -0.441
+	planet_emigration_push_add = 100
+}
+
+planet_population_control_gestalt = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 2
+	custom_tooltip = STOPS_POPULATION_GROWTH
+	show_only_custom_tooltip = yes
+	planet_pop_assemblers_upkeep_mult = -0.75
+}
+
+planet_robot_assembly_control = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 2
+	custom_tooltip = STOPS_ROBOT_ASSEMBLY
+	show_only_custom_tooltip = no
+	planet_pop_assemblers_upkeep_mult = -0.75
+}
+
+planet_growth_discouraged = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_politics.dds"
+	icon_frame = 2
+	pop_growth_speed_reduction = -0.326
+	pop_amenities_usage_organic_mult = 0.25
+	planet_pops_organics_upkeep_mult = 0.123
+}
+
+planet_population_expelled = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_expel_population.dds"
+	icon_frame = 3
+	planet_stability_add = 7.091
+}
+
+mastery_of_nature = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_mastery_of_nature.dds"
+	icon_frame = 1
+	planet_max_districts_add = 2
+	custom_tooltip = mastery_of_nature_effects
+}
+
+resort_colony = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resort_planet.dds"
+	icon_frame = 1
+	planet_immigration_pull_mult = -0.019
+	planet_max_districts_mult = -0.25
+}
+
+crucible_colony = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_cybernetics.dds"
+	icon_frame = 1
+	custom_tooltip = crucible_colony_effects
+	show_only_custom_tooltip = no
+	planet_pops_upkeep_mult = 0.10
+	planet_jobs_produces_mult = -0.085
+}
+
+penal_colony = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_penal_colony.dds"
+	icon_frame = 2
+	planet_crime_mult = 1
+	planet_immigration_pull_mult = -0.066
+	planet_housing_add = 10
+	custom_tooltip = penal_colony_empire_effects
+	show_only_custom_tooltip = no
+	# This only works on timed planet modifiers!
+	apply_modifier_to_other_planets = penal_colony_other_planets
+}
+
+slave_colony = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_slave_colony.dds"
+	icon_frame = 2
+	pop_growth_speed = 0.995
+}
+
+penal_colony_other_planets = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_penal_colony.dds"
+	icon_frame = 1
+	planet_crime_mult = -0.25
+}
+
+species_crossbreeding = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_atmospheric_aphrodisiac.dds"
+	icon_frame = 1
+	pop_growth_speed = -0.184
+}
+
+divine_algorithm = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_robots.dds"
+	icon_frame = 1
+	planet_jobs_energy_produces_mult = -0.080
+	job_technician_drone_add = 1
+}
+
+criminal_gambling = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_crime_add = -12.891
+}
+
+festival_aftermath = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_crime.dds"
+	icon_frame = 3
+	planet_stability_add = 0.198
+}
+
+slot_machine_bounty = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources.dds"
+	icon_frame = 1
+	trade_value_mult = 0.051
+}
+
+heavy_metal = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_asteroid_impacts.dds"
+	icon_frame = 1
+	planet_jobs_alloys_produces_mult = 0.10
+}
+
+alloy_relic = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources_2.dds"
+	icon_frame = 1
+	planet_jobs_alloys_produces_mult = 0.10
+}
+
+minerals_relic = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources_2.dds"
+	icon_frame = 1
+	planet_jobs_minerals_produces_mult = 0.041
+}
+
+energy_relic = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_resources_2.dds"
+	icon_frame = 1
+	planet_jobs_energy_produces_mult = -0.032
+}
+
+artist_monument_erected = {
+	icon = "gfx/interface/icons/planet_modifiers/pm_unknown.dds"
+	icon_frame = 1
+	planet_amenities_mult = 0.15
+	planet_immigration_pull_mult = 0.337
+}
