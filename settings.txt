@@ -86,7 +86,7 @@ tokenList = {
 	pop_government_ethic_attraction,
 	ships_upkeep_mult,
 	commander_initial_skill,
-	planet_pop_assembly_mult,
+	planet_pop_assembly_mult, importantValueSmall
 	ROBOT_species_trait_picks_add,
 	megastructures_habitat_cost_mult,
 	habitat_districts_building_slots_add,
@@ -142,7 +142,7 @@ tokenList = {
 	pop_growth_speed,
 	empire_size_colonies_mult,
 	pop_growth_speed_reduction,
-	planet_pop_assembly_add,
+	planet_pop_assembly_add, importantValueSmall
 	colony_start_num_pops_add,
 	commercial_pact_mult,
 	planet_colony_development_speed_mult,
@@ -311,7 +311,7 @@ tokenList = {
 	pop_cat_worker_happiness,
 	pop_cat_slave_happiness,
 	planet_jobs_produces_mult, importantValueSmall
-	planet_pop_assembly_organic_mult,
+	planet_pop_assembly_organic_mult, importantValueSmall
 	leader_lifespan_add,
 	planet_jobs_food_produces_mult,
 	planet_jobs_minerals_produces_mult,
@@ -323,6 +323,6 @@ tokenList = {
 	planet_pops_organics_energy_upkeep_mult,
 	planet_pops_organics_minerals_upkeep_mult,
 	planet_pops_organics_food_upkeep_mult,
-	planet_pop_assembly_organic_mult,
+	planet_pop_assembly_organic_mult, importantValueSmall
 	pop_growth_speed
 }
